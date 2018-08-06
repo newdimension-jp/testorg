@@ -8,4 +8,7 @@ github操作テスト用のサイト
 ３回目の変更
 
 rebaseの実験
-rebaseの実験２
+Squashの実験
+aaa
+aaa
+aaa
