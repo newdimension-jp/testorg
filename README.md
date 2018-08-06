@@ -9,3 +9,4 @@ github操作テスト用のサイト
 
 rebaseの実験
 rebaseの実験２
+Squashの実験
